@@ -1,0 +1,38 @@
+body,
+html{
+      width: 100%;
+      height: 100%;
+      font-family:'Montserrat', sans-serif;
+      background: url(shape.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    
+}
+/*
+h1{
+    font-size: 3rem;
+    color: #e2dbdb;
+}
+*/
+.btn{
+     font-weight: 700;
+     border-radius: 300px;
+}
+.btn-xl{
+    padding: 1em 2em;
+    text-transform: uppercase;
+}
+.btn-primary  #userInput{
+    background-color:rgb(12, 64, 236);
+}
+.btn-primary:hover{
+    background-color: rgb(12, 64, 236);
+    border-color: rgb(12, 64, 236);
+    border-width: 4px;
+}
+#userInput{
+    padding: 1rem 1rem;
+    border-radius: 2rem;
+}
