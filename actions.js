@@ -33,6 +33,6 @@ function addByKeypress(event){
     }
 }
 
-// The listeners 
+// The listener events
 click_btn.addEventListener("click", addByClick);
 user_input.addEventListener("keypress", addByKeypress);
