@@ -6,7 +6,7 @@
   * Css - style
   * JS - functions
   
-  ## Summary: 
+  ## Summary
    Very small and short practice in JavaScript
    
     
